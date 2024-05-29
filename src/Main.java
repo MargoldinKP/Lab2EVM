@@ -145,16 +145,6 @@ public class Main {
                     } else {
                         System.out.println("Файлы с расширением " + r + " в данном каталоге не найдены.");
                     }
-//                        if(arrayf!=null) {
-//                            for (File k : arrayf) {
-////                            String ext=k.getName();
-//                                int indexOf = k.getName().indexOf(".1");
-//                                String extension = k.getName().substring(indexOf + 1);
-//                                if (extension.equals(r)) {
-//                                    System.out.println(k.getName());
-//                                }
-//                            }
-//                        }
                         break;
                 case 9:
                     if (f1 != null) {
